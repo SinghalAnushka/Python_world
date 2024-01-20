@@ -1,2 +1,2 @@
 # Python_world
-It's a simple fun game.
+It's an interesting fun game of cricket.
